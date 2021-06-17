@@ -37,5 +37,7 @@ O candidato deve publicar o código fonte em um repositório git de sua preferê
 - **Back-end:** NodeJs
 
 ### Baixar o repositório e digitar no terminal:
+```bash
+    1.node index.js
+```
 
-.      node index.js
