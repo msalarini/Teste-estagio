@@ -30,7 +30,6 @@ O candidato deve especificar os comandos que devem ser utilizados para execuçã
 ```
 
 O candidato deve publicar o código fonte em um repositório git de sua preferência (exemplo: github, gitlab, bitbucket e etc).
-## Especificações técnicas
 
 ### Tecnologias utilizadas
 
